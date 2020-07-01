@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Music Theory Quiz</string>
+    <string name="button"></string>
+    <string name="scoreText">Score: </string>
+    <string name="majorKey">Major Keys</string>
+    <string name="unison">P1</string>
+    <string name="minorSecond">m2</string>
+    <string name="majorSecond">M2</string>
+    <string name="minorThird">m3</string>
+    <string name="majorThird">M3</string>
+    <string name="perfectFourth">P4</string>
+    <string name="perfectFifth">P5</string>
+    <string name="minorSixth">m6</string>
+    <string name="majorSixth">M6</string>
+    <string name="minorSeventh">m7</string>
+    <string name="majorSeventh">M7</string>
+    <string name="octave">P8</string>
+</resources>
